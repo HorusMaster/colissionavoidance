@@ -64,4 +64,4 @@ class Camera(SingletonConfigurable):
             
     def restart(self):
         self.stop()
-        self.start()
+        self.start() 
